@@ -1,2 +1,2 @@
 # euler
-Project Euler Solution Sets
+Project Euler Solution Sets solved in C/C++
